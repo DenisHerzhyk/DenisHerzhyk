@@ -1,4 +1,4 @@
-# Hi, I'm Denys Herzhyk 👋
+# Hi, I'm Denys 👋
 
 🎓 Computer Science student | 💻 Full-Stack Developer in training | 🛠️ Technical Support Engineer @ Tungsten Automation (Kofax)
 
